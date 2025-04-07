@@ -1,2 +1,3 @@
 # fallaxe_simulator
-Pickaxe falling and breaking things in its path yay
+### Using SFML 3.0.0
+Pickaxe falling and breaking things yay
